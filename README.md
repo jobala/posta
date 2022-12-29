@@ -1,0 +1,2 @@
+# posta
+A nostr relay 
